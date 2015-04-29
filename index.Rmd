@@ -69,7 +69,7 @@ knit        : slidify::knit2slides
 
 ## Health Demo
 
-* 
+* jeromefro.shinyapps.io/Health_Demo/
 
 
 
